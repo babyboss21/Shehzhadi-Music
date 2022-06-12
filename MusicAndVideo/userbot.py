@@ -105,7 +105,7 @@ async def repo(client, m: Message):
 
 »  ✪ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ✪
  • ғɪʀsᴛ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ᴛʜᴇɴ ᴛʏᴘᴇ #Shehzhadi-Music-Userbot
-» sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ || [ᴛᴇᴄʜ ǫᴜᴀʀғ sᴜᴘᴘᴏʀᴛ](https://t.me/TechQuardSupport) 
+» sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ || [ᴛᴇᴄʜ ǫᴜᴀʀᴅ sᴜᴘᴘᴏʀᴛ](https://t.me/TechQuardSupport) 
  
  </b>
 """
